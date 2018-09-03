@@ -8,5 +8,5 @@ Docker-compose file for Portainer with persistent data storage.
 
 Run with this command from the targeted directory
 ```
-sudo docker-compose up
+sudo docker-compose up -d
 ```
